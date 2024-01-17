@@ -14,14 +14,14 @@ The Worker Management System is a console-based application for managing informa
 
 - [.NET Core SDK](https://dotnet.microsoft.com/download) must be installed on your machine.
 
-Usage
+## Usage
 
     Select an option from the menu by entering the corresponding number.
     Follow the prompts to complete the selected action.
 
-Contributing
+## Contributing
 
-Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
+### Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
 
     Fork the repository.
     Create a new branch: git checkout -b feature/new-feature.
@@ -29,6 +29,6 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
     Push to the branch: git push origin feature/new-feature.
     Submit a pull request.
 
-License
+# License
 
 This project is licensed under the BSD-3-Clause
